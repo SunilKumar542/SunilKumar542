@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently in my BE Final year At new horizon college of engineering pursuing Information science and engineering<br>i am interested in new tech and have the ability to adapt to new environment quickly.
+i'm currently in my BE Final year At new horizon college of engineering pursuing Information science and engineering<br>i am an aspiring engineer with a strong curiosity for emerging technologies, eager to learn and apply knowledge to real-world challenges.
 
 
 # 💻 Tech Stack:
